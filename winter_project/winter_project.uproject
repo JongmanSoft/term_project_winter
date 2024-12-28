@@ -29,6 +29,18 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "HairStrandsMutable",
+			"Enabled": true
+		},
+		{
+			"Name": "MutablePopulation",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogicMutable",
+			"Enabled": true
 		}
 	]
 }
